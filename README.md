@@ -44,5 +44,5 @@ This should create a production bundle for unhide extension, ready to be zipped 
 
 ## Stack
 
-Used plasmo framework with Typescript, React and TailwindCss.
 
+![Plasmo](https://img.shields.io/badge/-Plasmo-FFD700?style=flat-square&logo=plasmo&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
